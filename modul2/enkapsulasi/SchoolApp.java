@@ -1,6 +1,7 @@
 package enkapsulasi;
 
 public class SchoolApp {
+
     public static void main(String[] args) {
         Student miki = new Student("Miki");
         Student mini = new Student("Mini");

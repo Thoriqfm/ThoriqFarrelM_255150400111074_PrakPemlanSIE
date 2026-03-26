@@ -1,4 +1,5 @@
 package modul3.hubungan_useA_hasA;
+import modul3.hubungan_isA.Vehicle;
 
 public class Car extends Vehicle {
     public int numWheel = 4;

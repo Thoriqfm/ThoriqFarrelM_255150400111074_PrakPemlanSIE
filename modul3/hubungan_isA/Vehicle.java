@@ -3,7 +3,7 @@ package modul3.hubungan_isA;
 // public final class Vehicle
 public class Vehicle {
 
-    Vehicle() {
+    public Vehicle() {
         System.out.println("Vehicle is created");
     }
 
